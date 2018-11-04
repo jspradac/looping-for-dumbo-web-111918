@@ -1,7 +1,7 @@
 
 def using_for
 	checklist = 1..10
-	for spell in checklist do 
+	for spell in checklist 
 	  puts "Wingardum Leviosa"
 	end
 	#your code here
